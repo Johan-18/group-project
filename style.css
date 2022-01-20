@@ -5,7 +5,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: rgb(217, 234, 240);
-    color: #555;
+    color: rgb(250, 177, 226);
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
@@ -32,7 +32,7 @@ main h2 {
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(230, 172, 230);
     background-color: lightblue;
     padding: 3px;
 }
